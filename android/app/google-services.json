@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232770714709",
+    "firebase_url": "https://twoaccountfirebaseone-default-rtdb.firebaseio.com",
+    "project_id": "twoaccountfirebaseone",
+    "storage_bucket": "twoaccountfirebaseone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232770714709:android:3b24b0523aac7c415e28dc",
+        "android_client_info": {
+          "package_name": "com.example.twoaccountfirebasedifferentinjustproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232770714709-pq1fs25qaf8il5u4k02dvg5m0bpqlauo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8u3Gbt7plLQL7w7lUK-uT1nZHaTHfSxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232770714709-pq1fs25qaf8il5u4k02dvg5m0bpqlauo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
