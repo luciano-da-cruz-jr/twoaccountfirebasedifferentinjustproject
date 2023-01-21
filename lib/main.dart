@@ -10,9 +10,9 @@ void main() async{
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
-  //final secondaryApp = await Firebase.initializeApp(
-    //options: DefaultFirebaseOptionsTwo.currentPlatform,
-  //);
+  final secondaryApp = await Firebase.initializeApp(
+    options: DefaultFirebaseOptionsTwo.currentPlatform,
+  );
 
   runApp(
     MaterialApp(
