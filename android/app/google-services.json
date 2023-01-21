@@ -30,6 +30,13 @@
             {
               "client_id": "232770714709-pq1fs25qaf8il5u4k02dvg5m0bpqlauo.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "232770714709-3dm6hnu3ed40vuhkv7upm912rhi32t9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twoaccountfirebasedifferentinjustproject"
+              }
             }
           ]
         }
